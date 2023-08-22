@@ -4,11 +4,11 @@
 |N|Node Title|Contents|
 |:---:|:---:|---|
 |1|<b>텍스트 데이터 다루기</b>|다양한 텍스트 데이터 전처리 기법을 소개. Word나 형태소 레벨의 tokenizer 및 subword 레벨 tokenizing 기법(BPE, sentencepiece) 학습|
-|2|<b>멋진 단어사전 만들기</b>|Project : 단어사전을 만들어보고 이를 토대로 perplexity를 측정해보는 프로젝트|
+|2|<b>멋진 단어사전 만들기</b>|<b>PROJECT</b> 단어사전을 만들어보고 이를 토대로 perplexity를 측정해보는 프로젝트|
 |3|<b>텍스트의 분포로 벡터화 하기</b>|텍스트 분포를 이용한 텍스트의 벡터화 방법들(BoW, DTM, TF-IDF, LSA, LDA)|
-|4|<b>뉴스 카테고리 다중분류</b>|Project : 뉴스 텍스트의 주제를 분류하는 task를 다양한 기법으로 시도해보고 비교, 분석 하는 프로젝트|
+|4|<b>뉴스 카테고리 다중분류</b>|<b>PROJECT</b> 뉴스 텍스트의 주제를 분류하는 task를 다양한 기법으로 시도해보고 비교, 분석 하는 프로젝트|
 |5|<b>워드 임베딩</b>|워드 임베딩 벡터(Word2Vec, FastText, Glove)의 원리와 사용법을 학습|
-|6|<b>임베딩 내 편향성 알아보기</b>|Project : 데이터의 편향성을 알아보기 위한 WEAT 기법을 이해하고, 워드 임베딩에 직접 적용하기|
+|6|<b>임베딩 내 편향성 알아보기</b>|<b>PROJECT</b> 데이터의 편향성을 알아보기 위한 WEAT 기법을 이해하고, 워드 임베딩에 직접 적용하기|
 |7|<b>Seq2seq와 Attention</b>|언어 모델이 발전해 온 과정에 대해 배우고, Seq2seq에 대해 학습|
 |8|<b>Seq2seq으로 번역기 만들기</b>|Attention 기법을 추가하여 Seq2seq 기반의 번역기 성능을 높여보기|
 |9|<b>Transformer가 나오기까지</b>|Attention 복습 및 트랜스포머에 포함된 모듈을 심층적으로 이해하는 단계|
