@@ -1,4 +1,4 @@
-| Korean Sentence          | English Sentence (Transformer_Mecab_Original)    | English Sentence (SentencePiece_Original)  |
+| Korean         | English(Transformer_Mecab_Original)    | English(SentencePiece_Original)  |
 |--------------------------|-----------------------------------------------|------------------------------------------|
 | 아버지가 방에 들어가신다. | the father of the father got occupied .      | a father is owned by christmas and family has fathered . |
 | 저는 지금 공부를 하고 있어요. | i am research .                             | i learned what i do you do you do .      |
@@ -13,7 +13,7 @@
 
 
 
-| Korean Sentence          | English Sentence (Mecab_otherData)            | English Sentence (SentencePiece_otherData) |
+| Korean          | English(Mecab_otherData)            | English(SentencePiece_otherData) |
 |--------------------------|-----------------------------------------------|------------------------------------------|
 | 아버지가 방에 들어가신다. | my father behind my dad s room .            | you can enter in your room .            |
 | 저는 지금 공부를 하고 있어요. | i am studying in the study .               | i m studying right now .               |
