@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 5th Code Peer Review
-- 코더 : 박혜워
-- 리뷰어 : 김석영
+- 코더: 박혜원
+- 리뷰어: 김석영
 
 
 # PRT(PeerReviewTemplate) 
