@@ -1,4 +1,4 @@
-| Korean Sentence          | English (Transformer_Mecab_Original)      | English (SentencePiece_Original)    |
+| Korean           | English (Transformer_Mecab_Original)      | English (SentencePiece_Original)    |
 |--------------------------|------------------------------------------|-------------------------------------|
 | 아버지가 방에 들어가신다. | the father of the father got occupied . | a father is owned by christmas and family has fathered . |
 | 저는 지금 공부를 하고 있어요. | i am research .                        | i learned what i do you do you do . |
@@ -11,7 +11,7 @@
 | 최근에 재밌게 본 영화가 있나요? | so i ve films that films ?              | in a recent recent times it s last you ve kindly starred in you know . |
 | 여행 가고 싶어요.       | i want to travel to try .               | i ll travel to you or to the business . |
 
-| Korean Sentence          | English (Mecab_otherData)                | English (SentencePiece_otherData)  |
+| Korean           | English (Mecab_otherData)                | English (SentencePiece_otherData)  |
 |--------------------------|------------------------------------------|------------------------------------|
 | 아버지가 방에 들어가신다. | my father behind my dad s room .       | you can enter in your room .      |
 | 저는 지금 공부를 하고 있어요. | i am studying in the study .          | i m studying right now .         |
