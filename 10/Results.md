@@ -13,7 +13,7 @@
 
 
 
-| Korean          | English(Mecab_otherData)            | English(SentencePiece_otherData) |
+| Korean          | English(Mecab_otherData)              | English(SentencePiece_otherData) |
 |--------------------------|-----------------------------------------------|------------------------------------------|
 | 아버지가 방에 들어가신다. | my father behind my dad s room .            | you can enter in your room .            |
 | 저는 지금 공부를 하고 있어요. | i am studying in the study .               | i m studying right now .               |
