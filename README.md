@@ -19,7 +19,6 @@
 |14|<b>BERT pretrained model 제작</b>|대표적인 pretrained language model인 BERT 원리에 대해 학습|
 |15|<b>NLP Framework의 활용</b>|최다양한 NLP Framework에 대해 학습하고, Huggingface transformer를 중심으로 설계구조와 활용법 학습|
 |16|<b>HuggingFace 커스텀 프로젝트 만들기</b>|Huggingface transformer를 활용한 커스텀 프로젝트 수행|
-|16|<b>HuggingFace 커스텀 프로젝트 만들기</b>|Huggingface transformer를 활용한 커스텀 프로젝트 수행|
 |17|<b>#NLP Trend Note 1</b>|최신 LLM 소개, InstructGPT의 SFT, RM, PPO 학습 메커니즘 소개|
 |18|<b>#NLP Trend Note 2</b>|KochatGPT 구현|
 
